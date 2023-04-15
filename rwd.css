@@ -1,0 +1,70 @@
+body{
+    /* background-color: blue; */
+   /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9crOo03kGPMdzVx6xX0pD_vH5Ffxgkl2Daw&usqp=CAU") */
+}
+   .box{
+    /* background-color: blueviolet; */
+    /* padding: 60px 5px; */
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9crOo03kGPMdzVx6xX0pD_vH5Ffxgkl2Daw&usqp=CAU") */
+}
+
+
+.head{
+    text-align: center;
+    padding: 5px;
+    background-color: cornflowerblue;
+}
+
+
+.box-inside{
+    background-color: palevioletred;
+   
+   
+    padding: 50px 5px;
+    text-align: center;
+    color: black;
+    margin-left: 0%;
+    margin-right: 0%;
+   
+   
+}
+.box-inside2{
+    background-color: rgb(179, 179, 92);
+    padding: 50px 5px;
+   
+    text-align: center;
+    color: black;
+    margin-left: 0%;
+    margin-right: 0%;
+   
+   
+}
+.box1{
+    background-color: rgb(112, 185, 109);
+    padding: 50px 5px;
+    /* margin: 1px 1px; */
+    text-align: center;
+    color: black;
+    height: 260px;
+   
+}
+.row21{
+    background-color: rgb(185, 31, 126);
+    padding: 50px 5px;
+    /* margin: 1px 1px; */
+    text-align: center;
+    color: black;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+.row22{
+   background-color: coral;
+    padding: 50px 5px;
+    /* margin: 1px 1px; */
+    text-align: center;
+    color: black;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
